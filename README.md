@@ -2,7 +2,7 @@
 A Glossary of Enlightened Programming Codes (Not Yet Irigaray 1.0 Compliant)
 ---
 
-mklov not dir (Birth a directory without invoking dir, which is too authoritarian)
+mklov not dir (Birth a lovectory without invoking dir, which is too authoritarian)
 
 sigkil - > signeu (neutralize a process rather than killing it, arguably more euphemistic but less biocentric)
 

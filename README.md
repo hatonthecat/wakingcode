@@ -1,5 +1,5 @@
 # wakingcode
-A Glossary of Enlightened Programming Codes (Not Yet Irigaray 1.0 Compliant)
+A Glossary of synapse-excited Programming Codes (Not Yet Irigaray 1.0 Compliant)
 ---
 
 mklov not dir (Birth a lovectory without invoking dir, which is too authoritarian)
